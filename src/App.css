@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+
+.users__item {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(195, 195, 195);
+  margin-bottom: 40px;
+}
+
+.users__item p {
+  font-size: 20px;
+  color: rgb(22, 44, 56);
+}
